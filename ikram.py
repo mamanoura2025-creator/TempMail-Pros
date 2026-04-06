@@ -6,7 +6,7 @@ import requests
 from flask import Flask, request
 
 # ضع التوكنات مباشرة هنا
-PAGE_ACCESS_TOKEN = "PUT_YOUR_PAGE_ACCESS_TOKEN_HERE"
+PAGE_ACCESS_TOKEN = "EAATYUwRGOGMBRPQIZCRXICYfRKtBGp12MDamU1JygqYtAKxC4OF8t4LBl05FrVPC7V8GTtFhDkdXWLusLwLPEpnKMrw12neYntlaCfxUzIvNoTPyvgv7dvbCqZAXVx261dTaexFuJg1wM1wF0J773aC9KYuzHyHZAM1IeST6wxvaFlfZBdnZAnnKlcATRORh75VdNpaYdWgZDZD"
 VERIFY_TOKEN = "miloud_bot_verify"
 
 # صورة البوت
