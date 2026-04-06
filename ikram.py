@@ -12,8 +12,8 @@ VERIFY_TOKEN = os.getenv("VERIFY_TOKEN")
 WELCOME_PHOTO = "https://i.postimg.cc/Y99hJmjX/file-00000000ef0871f7a407fbe643baee0d.png"
 
 # معلومات المطور
-DEVELOPER_NAME = "Miloud Dev"
-DEV_FACEBOOK = "https://www.facebook.com/No.Luck.No.Life"
+DEVELOPER_NAME = "ikram Dev"
+DEV_FACEBOOK = "https://www.facebook.com/profile.php?id=61575429936062"
 DEV_TELEGRAM = "https://t.me/@milouddev02"
 DEV_WEBSITE = "https://guns.lol/miloud"
 
