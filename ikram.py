@@ -5,8 +5,9 @@ import time
 import requests
 from flask import Flask, request
 
-PAGE_ACCESS_TOKEN = os.getenv("PAGE_ACCESS_TOKEN")
-VERIFY_TOKEN = os.getenv("VERIFY_TOKEN")
+# ضع التوكنات مباشرة هنا
+PAGE_ACCESS_TOKEN = "PUT_YOUR_PAGE_ACCESS_TOKEN_HERE"
+VERIFY_TOKEN = "miloud_bot_verify"
 
 # صورة البوت
 WELCOME_PHOTO = "https://i.postimg.cc/Y99hJmjX/file-00000000ef0871f7a407fbe643baee0d.png"
