@@ -5,8 +5,8 @@ import time
 import requests
 from flask import Flask, request
 
-PAGE_ACCESS_TOKEN = os.getenv("PAGE_ACCESS_TOKEN")
-VERIFY_TOKEN = os.getenv("VERIFY_TOKEN")
+PAGE_ACCESS_TOKEN = os.getenv("EAASKEtEw23kBRPZAZA5XSYTpZBHzT0PyM4RmGYvKu1bNFVaG8tzkkDFDkzyBL22gSqz6shkSIRnSVrqJ5yNdkVp7q95Mnp24j8ujfQlMqL2I310XkSkQZAYg99S8ZBjZA4DVkTfkhVlbDcWJD1cIw2Vb2YRCtyKFNOBeuS05LgX5Eum6StTUDRUHdRTGZCQObmW69wVDUx1VgZDZD")
+VERIFY_TOKEN = os.getenv("ikram_bot")
 
 # صورة البوت
 WELCOME_PHOTO = "https://i.postimg.cc/Y99hJmjX/file-00000000ef0871f7a407fbe643baee0d.png"
